@@ -19,10 +19,9 @@ This project is a pass management system for an enterprise, built with Django (b
 ## Quick Start
 1. Install Docker and Docker Compose
 2. Run: `docker-compose up --build`
-3. Access the frontend at `http://localhost:3000` and the backend at `http://localhost:8000`
+3. Access the frontend at `http://localhost:3000` and the backend at `http://localhost:8010`
 
 ## Documentation
-- See `docs/explanatory_note.docx` for the explanatory note template
 - See `templates/Blank_razovogo_propuska.docx` for the pass template
 
 ---
